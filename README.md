@@ -23,7 +23,7 @@ Una aplicación Flutter que muestra una lista de Pokémon, permite buscar, orden
 
 1. Clona el repositorio:
    ```sh
-   git clone <url-del-repo>
+   git clone https://github.com/MarioSQuilantan/pokemon_app.git
    cd pokemon_app
    ```
 2. Instala las dependencias:
